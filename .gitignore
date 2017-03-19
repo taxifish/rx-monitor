@@ -5,7 +5,10 @@
 dist/*
 target/
 */.idea
+/.idea
 */.gradle
+/.gradle
+/gradle
 *.iml
 */build/
 build/
