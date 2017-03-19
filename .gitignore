@@ -1,0 +1,11 @@
+*.class
+*.log
+*.DS_Store*
+.lib/
+dist/*
+target/
+*/.idea
+*/.gradle
+*.iml
+*/build/
+build/

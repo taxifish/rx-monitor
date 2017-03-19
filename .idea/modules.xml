@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hz-client/hz-client.iml" filepath="$PROJECT_DIR$/.idea/modules/hz-client/hz-client.iml" group="hz-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hz-client/hz-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hz-client/hz-client_main.iml" group="hz-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hz-client/hz-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hz-client/hz-client_test.iml" group="hz-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hz-server/hz-server.iml" filepath="$PROJECT_DIR$/.idea/modules/hz-server/hz-server.iml" group="hz-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hz-server/hz-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hz-server/hz-server_main.iml" group="hz-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hz-server/hz-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hz-server/hz-server_test.iml" group="hz-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monitor-client/monitor-client.iml" filepath="$PROJECT_DIR$/.idea/modules/monitor-client/monitor-client.iml" group="monitor-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monitor-client/monitor-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/monitor-client/monitor-client_main.iml" group="monitor-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monitor-client/monitor-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/monitor-client/monitor-client_test.iml" group="monitor-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-monitor.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-monitor-ws/rx-monitor-ws.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-monitor-ws/rx-monitor-ws.iml" group="rx-monitor-ws" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-monitor-ws/rx-monitor-ws_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-monitor-ws/rx-monitor-ws_main.iml" group="rx-monitor-ws" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-monitor-ws/rx-monitor-ws_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-monitor-ws/rx-monitor-ws_test.iml" group="rx-monitor-ws" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-monitor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-monitor_main.iml" group="rx-monitor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-monitor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-monitor_test.iml" group="rx-monitor" />
+    </modules>
+  </component>
+</project>

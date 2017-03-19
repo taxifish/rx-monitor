@@ -1,0 +1,15 @@
+apply plugin: "application"
+mainClassName = "org.resha.rx.rxmonitor.WebApp"
+
+ext {
+    //JETTY_VERSION = "9.4.0.v20161208"
+    JETTY_VERSION = "8.2.0.v20160908"
+}
+
+dependencies {
+
+    compile ("org.slf4j:slf4j-log4j12:1.7.6")
+    compile ("org.eclipse.jetty:jetty-server:${JETTY_VERSION}")
+    compile ("org.eclipse.jetty:test-jetty-servlet:${JETTY_VERSION}")
+    compile ("javax.servlet:javax.servlet-api:3.1.0")
+}

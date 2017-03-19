@@ -1,0 +1,10 @@
+apply plugin: "application"
+mainClassName = "org.resha.rx.rxmonitor.App"
+
+dependencies {
+
+    compile ("org.slf4j:slf4j-log4j12:1.7.6")
+    compile ('io.reactivex:rxnetty-http:0.5.2-RC1')
+    compile ("com.hazelcast:hazelcast-client:3.8")
+
+}
