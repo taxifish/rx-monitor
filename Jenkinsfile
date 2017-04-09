@@ -1,5 +1,10 @@
 pipeline {
-  agent any
+  agent {
+    docker {
+      image 'niaquinto/gradle'
+    }
+    
+  }
   stages {
     stage('Build') {
       steps {
