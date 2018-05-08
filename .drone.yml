@@ -1,0 +1,4 @@
+build:
+  image: openjdk:8-jdk-alpine
+  commands:
+    - ./gradlew build
